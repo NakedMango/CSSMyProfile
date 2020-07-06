@@ -1,0 +1,36 @@
+h1 {
+    margin: 20% auto 0 auto;
+    padding-top:20px ;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+
+
+}
+
+body {
+    background-color: darkcyan;
+    margin: 0;
+    text-align: center;
+    position: relative;
+    font-family: 'Merriweather',sans-serif;
+}
+
+.topContainer {
+    position: relative;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 25%;
+}
+
+.topCloud {
+    padding: 10% 0 0 0;
+    position: absolute;
+    right:35%;
+    bottom: 99%;
+}
+
+.myName {
+    height: 30%;
+}
